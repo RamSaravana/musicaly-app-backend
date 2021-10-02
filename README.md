@@ -13,7 +13,7 @@ This Music Album and player appliction has been created using React.js, Node.js,
 
 ## Deployment
 
-### Front-end - on Netlify - [http://localhost:3000]
+### Front-end - on Netlify - [https://musicaly-app.netlify.app/]
 
 ### Back-end - on Heroku - [https://musicaly-app-backend.herokuapp.com]
 
